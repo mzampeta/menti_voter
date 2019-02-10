@@ -1,0 +1,9 @@
+# ignore the file literally named DS Store
+.DS_Store
+
+#Ignore IDE config files
+.idea/*
+
+#WTF is that ?
+__pycache__
+
